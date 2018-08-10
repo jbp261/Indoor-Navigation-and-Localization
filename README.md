@@ -1,6 +1,4 @@
-# Machine Learning Engineer Nanodegree
-# Capstone Project
-## Project: Indoor Navigation and Localization
+# Indoor Navigation and Localization
 
 ### Install
 
