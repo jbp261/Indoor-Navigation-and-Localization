@@ -41,11 +41,11 @@ or
 jupyter notebook Navigation_Project.ipynb\
 ```
 
-This will open the Jupyter Notebook software and project file in your browser.\
+This will open the Jupyter Notebook software and project file in your browser.
 
 ### Data
 
-There are two datasets. One is iBeacon_RSSI_labeled, and the other one is iBeacon_RSSI_unlabeled. The datasets are available on [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/BLE+RSSI+Dataset+for+Indoor+localization+and+Navigation).\
+There are two datasets. One is iBeacon_RSSI_labeled, and the other one is iBeacon_RSSI_unlabeled. The datasets are available on [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/BLE+RSSI+Dataset+for+Indoor+localization+and+Navigation).
 
 **Features**
 1.  `location`: The location of receiving RSSIs from ibeacons b3001 to b3013; symbolic values showing the column and row of the location on the map (e.g., A01 stands for column A, row 1). 
