@@ -1,5 +1,8 @@
 # Indoor Navigation and Localization
 
+### Project Overview
+The combination of Deep Neural Network (DNN), Reinforced Learning (RL), and semi- supervised learning is used to utilize unlabeled data collected by the IoT devices to help users navigate inside the buildings. A deep Q reinforcement learning agent is trained, using both labeled and unlabeled data, to help the users of smart cities navigate indoors. The main aim of the project is to guide the user as close to the target as possible. The unsupervised learning model performs better in guiding an RL agent close to the target compared to the supervised learning model.
+
 ### Install
 
 This project requires **Python** and the following Python libraries installed:
